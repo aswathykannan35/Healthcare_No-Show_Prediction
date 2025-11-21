@@ -5,8 +5,9 @@ Predicting whether a patient will miss their scheduled medical appointment using
 ---
 ### 1. Introduction
 
-- Many times, patients do not show up for their medical appointments.
+Many times, patients do not show up for their medical appointments.
 Previous studies report nearly 25% of all scheduled appointments become No-Shows.
+
 This leads to two major losses:
 - Financial loss for hospitals / doctors (empty appointment slots).
 - Loss of timely treatment for other patients, who could have taken the slot.
