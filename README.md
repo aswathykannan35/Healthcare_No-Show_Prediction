@@ -11,7 +11,8 @@ Previous studies report nearly 25% of all scheduled appointments become No-Shows
 This leads to two major losses:
 - Financial loss for hospitals / doctors (empty appointment slots).
 - Loss of timely treatment for other patients, who could have taken the slot.
-- This project helps clinics and hospitals:
+
+This project helps clinics and hospitals:
 - Understand what factors influence No-Show behavior
 - Build a prediction model to estimate the probability of No-Show
 - Use insights to optimize overbooking, resource allocation, and patient engagement
